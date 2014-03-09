@@ -1,0 +1,21 @@
+{
+  "name": "fh.fileupload",
+  "version": "1.0",
+  "homepage": "https://github.com/fh-bower-packages/fh.fileupload",
+  "authors": [
+    "Layton Whiteley <layton.whiteley@gmail.com>"
+  ],
+  "description": "custom file upload scripts",
+  "keywords": [
+    "file",
+    "upload"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
